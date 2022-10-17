@@ -1,0 +1,38 @@
+h1{
+    font-size: 20 ;
+    text-align: center;
+    background-color: coral;
+}
+h2{
+    font-size: 200 ;
+}
+
+.tit{
+    justify-content: center;
+}
+
+.im{
+    margin: auto auto;
+    
+}
+img{
+    size: auto auto;
+}
+
+.lis{
+    text-align: center; 
+}
+
+.suscr{
+    text-align: center; 
+}
+
+.grilla{
+    display: grid;
+    grid-template-columns: auto auto;
+    display: -ms-inline-grid
+}
+
+.grilla div{
+    background-color:aquamarine;
+}
